@@ -12,5 +12,7 @@
         "ecmaVersion": "latest"
     },
     "rules": {
+        "no-console": "off",
+        "radix": ["error", "as-needed"]
     }
 }
